@@ -1,36 +1,62 @@
 # sig-Edge
 
-#### Description
-Define Edge related components for OpenEuler
+# SIG Mission and Scope
 
-#### Software Architecture
-Software architecture description
+## SIG Mission
 
-#### Installation
+- Taking openeuler as the operating system base, it provides corresponding middleware and solutions for the field of edge computing
+- Support Intel, arm, risc-v and other different chip platforms
+- Establish an open community and provide a place for relevant technical exchange and information sharing
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## SIG Scope
+- Porting mature edge related components to openeuler system
+- Explore some new scenarios and expand the field of edge based on the advantages of openeuler
+- Organize some meetup activities, exchange information and share programs
 
-#### Instructions
+## Meeting
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Conference theme: OpenEuler Edge SIG meetup
 
-#### Contribution
+Meeting time: 2021/08/04-2023/06/21 17:00-18:00(GMT+08:00) China 
+Standard Time-Beijing, every two weeks (Wednesday)
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+Click the link to join the conference, or add to the conference list:
+https://meeting.tencent.com/s/iwZmnhcOSs3x
 
+Conference ID: 386 5039 2499
 
-#### Gitee Feature
+Mobile phone one-key dialing to join the conference
++8675536550000,,38650392499# (中国大陆)
++85230018898,,,2,38650392499# (中国香港)
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+Dial based on your location
++8675536550000 (Mainland China)
++85230018898 (Hong Kong, China)https://gitee.com/gitee-stars/)
+
+# Members
+
+### **Maintainer**
+
+- Fanping Deng[@innost](https://gitee.com/innost), *[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
+
+- Xiaojing Xu[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
+
+- Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
+
+### **Committer**
+
+- Fanping Deng[@innost](https://gitee.com/innost)，*[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
+
+- Xiaojing Xu[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
+
+- Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
+
+# Email
+
+- fanping.deng@gmail.com
+- 2285728351@qq.com
+- wanghr0630@thundersoft.com
+
+# Repository address
+
+repository地址：https://gitee.com/openeuler/sig-Edge
