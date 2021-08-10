@@ -1,37 +1,62 @@
 # sig-Edge
 
-#### 介绍
-Define Edge related components for OpenEuler
+# 目标和规划
 
-#### 软件架构
-软件架构说明
+## 目标
 
+- 以OpenEuler为操作系统底座，面向边缘计算领域提供对应的中间件和解决方案
+- 支持Intel，ARM,RISC-V等不同芯片平台
+- 建立一个开放社区，提供相关技术交流，信息分享的地方
 
-#### 安装教程
+## 未来规划
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 将成熟的Edge相关组件移植到OpenEuler系统
+- 探索一些新的场景，依托OpenEuler的优势，拓展Edge的领域
+- 组织一些Meetup活动，交流信息，分享方案
 
-#### 使用说明
+# 组织会议
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+会议主题：OpenEuler Edge SIG meetup
 
-#### 参与贡献
+会议时间：2021/08/04-2023/06/21 17:00-18:00(GMT+08:00) 中国标准时间 - 北京, 每两周 (周三)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/s/iwZmnhcOSs3x
 
+会议 ID：386 5039 2499
 
-#### 特技
+手机一键拨号入会
++8675536550000,,38650392499# (中国大陆)
++85230018898,,,2,38650392499# (中国香港)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+# 成员
+
+### **Maintainer列表**
+
+- 邓凡平[@innost](https://gitee.com/innost), *[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
+
+- 徐晓晶[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
+
+- 王海瑞[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
+
+### **Committer列表**
+
+- 邓凡平[@innost](https://gitee.com/innost)，*[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
+
+- 徐晓晶[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
+
+- 王海瑞[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
+
+# 联系方式
+
+- fanping.deng@gmail.com
+- 2285728351@qq.com
+- wanghr0630@thundersoft.com
+
+# 项目地址
+
+repository地址：https://gitee.com/openeuler/sig-Edge
