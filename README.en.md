@@ -38,24 +38,26 @@ Dial based on your location
 ### **Maintainer**
 
 - Fanping Deng[@innost](https://gitee.com/innost), *[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
-
 - Xiaojing Xu[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
-
 - Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
+- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
+- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
 
 ### **Committer**
 
 - Fanping Deng[@innost](https://gitee.com/innost)，*[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
-
 - Xiaojing Xu[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
-
 - Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
+- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
+- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
 
 # Email
 
 - fanping.deng@gmail.com
 - 2285728351@qq.com
 - wanghr0630@thundersoft.com
+- [liusy@thundersoft.com](mailto:liusy@thundersoft.com)
+- [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
 
 # Repository address
 
