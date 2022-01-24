@@ -42,6 +42,7 @@ Dial based on your location
 - Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
 - Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- Jiezhang Wang[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 
 ### **Committer**
 
@@ -50,6 +51,7 @@ Dial based on your location
 - Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
 - Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- Jiezhang Wang[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 
 # Email
 
@@ -58,6 +60,7 @@ Dial based on your location
 - wanghr0630@thundersoft.com
 - [liusy@thundersoft.com](mailto:liusy@thundersoft.com)
 - [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- 2744323@qq.com
 
 # Repository address
 
