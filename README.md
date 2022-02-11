@@ -42,6 +42,7 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 王海瑞[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
 - 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- 王杰章[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 
 ### **Committer列表**
 
@@ -50,6 +51,7 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 王海瑞[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
 - 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- 王杰章[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 
 # 联系方式
 
@@ -58,6 +60,7 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - wanghr0630@thundersoft.com
 - [liusy@thundersoft.com](mailto:liusy@thundersoft.com)
 - [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- 2744323@qq.com
 
 # 项目地址
 
