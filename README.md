@@ -43,6 +43,7 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
 - 王杰章[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
+- 王峰图[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
 ### **Committer列表**
 
@@ -52,6 +53,7 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
 - 王杰章[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
+- 王峰图[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
 # 联系方式
 

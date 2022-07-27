@@ -43,6 +43,7 @@ Dial based on your location
 - Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
 - Jiezhang Wang[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
+- Fengtu Wang[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
 ### **Committer**
 
@@ -52,6 +53,7 @@ Dial based on your location
 - Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
 - Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
 - Jiezhang Wang[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
+- Fengtu Wang[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
 # Email
 
