@@ -5,4 +5,4 @@
 ## 支持的设备平台
 ### [树莓派4B](edgex/Raspberrypi.md)  
 ### [Intel NUC](edgex/intel_nuc.md)
-### [rockchip]
+### [Rockchip Rk3588s LP4X EVB ](edgex/rockchip.md)
