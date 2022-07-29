@@ -1,11 +1,13 @@
 # Env
 ## Hardware
-* [Raspberry Pi 4 B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+* [Intel NUC ](https://www.intel.cn/content/www/cn/zh/products/details/nuc.html)
 ## Software
-* [OS openEuler 22.03 LTS](https://repo.openeuler.org/openEuler-22.03-LTS/raspi_img/openEuler-22.03-LTS-raspi-aarch64.img) 
+* [OS openEuler 22.03 LTS](https://repo.openeuler.org/openEuler-22.03-LTS/ISO/x86_64/openEuler-22.03-LTS-x86_64-dvd.iso) 
 # Install
- **Operation system install**
-* 请参考openEuler文档 [link](https://docs.openeuler.org/zh/docs/22.03_LTS/docs/Installation/%E5%AE%89%E8%A3%85%E5%87%86%E5%A4%87-1.html)。
+ ## **Operation system install**
+* 通过UltraISO 制作启动U盘，该部分请自行百度
+* - 由于U盘名长度的限制，会导致`dracut-initqueue: Warning: dracut-initqueue timeout - starting timeout scripts` 的问题，需要在启动时修改`command line` 中的`hd:LABEL=` 为`openEuler-2` 与U盘名对应，按`F10` 启动正常安装.
+![commandline](image/cline.png)
 
 ## install
 * 采用docker的方案去部署整个edgex的服务
@@ -13,13 +15,13 @@
 ### Docker Install
 * 因为openEuler提供的repo源中，docker的版本过低，导致Edgex无法顺利运行，所以需要手动安装docker二进制包，并配置daemon 服务。
 ```
-# 通过二进制包的方式安装docker
-wget https://download.docker.com/linux/static/stable/aarch64/docker-20.10.17.tgz
+#改装docker 20.10.8
+wget https://download.docker.com/linux/static/stable/x86_64/docker-20.10.17.tgz
+
 dnf install tar -y
 tar zxvf docker-20.10.17.tgz
 cp -p docker/* /usr/local/bin
 
-# 配置docker服务
 sudo cat > /usr/lib/systemd/system/docker.service <<EOF
 [Unit]
 Description=Docker Application Container Engine
@@ -49,23 +51,20 @@ Restart=on-failure
 WantedBy=multi-user.target
 EOF
 
-
-groupadd docker
-chgrp docker /var/run/docker.sock
-
 systemctl enable docker
 systemctl start docker
-
-# 验证docker是否成功安装
+# 验证docker 安装正确
 docker run hello-world
+
 
 ```
 * 安装docker-compose
 ```
-wget https://github.com/docker/compose/releases/download/v2.7.0/docker-compose-linux-aarch64
-mv docker-compose-linux-aarch64 docker-compose
+wget https://github.com/docker/compose/releases/download/v2.7.0/docker-compose-linux-x86_64
+mv docker-compose-linux-x86_64 docker-compose
+
 chmod +x docker-compose
-sudo mv docker-compose /usr/local/bin
+mv docker-compose /usr/local/bin
 
 ```
 # Demo
@@ -78,12 +77,10 @@ git clone https://github.com/edgexfoundry/edgex-compose.git
 # 切换到版本2.1.0
 git checkout v2.1.0
 # 启动demoe
-docker-compose -f docker-compose-no-secty-with-app-sample-arm64.yml up -d
+docker-compose -f docker-compose-no-secty-with-app-sample.yml up -d
 
 # 检查状态
 docker-compose ps
 ```
 ![state](image/state.png)
 
-* 登录设备的4000端口，查看UI
-![state](image/ui.png)
