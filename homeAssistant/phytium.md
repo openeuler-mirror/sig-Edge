@@ -1,11 +1,10 @@
 # Env
 ## Hardware
-* [Raspberry Pi 4 B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+* (飞腾 FT-D2000)[https://item.jd.com/100014588907.html]
 ## Software
-* [OS openEuler 22.03 LTS](https://repo.openeuler.org/openEuler-22.03-LTS/raspi_img/openEuler-22.03-LTS-raspi-aarch64.img) 
+* (openEuler-22.03-LTS)[https://repo.openeuler.org/openEuler-22.03-LTS/edge_img/aarch64/openEuler-22.03-LTS-edge-aarch64-dvd.iso]
 # Install
- **Operation system install**
-* 请参考openEuler文档 [link](https://docs.openeuler.org/zh/docs/22.03_LTS/docs/Installation/%E5%AE%89%E8%A3%85%E5%87%86%E5%A4%87-1.html)。
+
 
 ## install
 * 采用docker的方案去部署整个home assistant的服务
@@ -59,6 +58,13 @@ systemctl start docker
 docker run hello-world
 
 ```
+* 运行`docker run hello-world`,无法启动，使用`dockerd`命令可获得下面的错误提示
+![运行报错](image/run_error.png)
+```
+#可以尝试关闭防火墙
+systemctl stop firewalld
+systemctl disable firewalld
+```
 ## Home Assistant Install
 * 通过docker 容器的方式去运行整个项目
 ```
@@ -95,14 +101,3 @@ docker run -d \
     ![10](images/add_auto_content.png)
   * 演示效果，点击播放vlc,回看到打开Android设备
     ![11](images/auto_show.png)
-
-# Q&A
-* 若无法访问`8123`地址，查看防火墙是否打开对应的ip端口
-```
-# 查看打开端口信息
-firewall-cmd --list-ports --zone=public
-# 添加端口
-firewall-cmd --add-port=8123/tcp --permanent --zone=public
-# 重启防火墙
-firewall-cmd --reload
-```

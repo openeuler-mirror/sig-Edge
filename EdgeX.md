@@ -6,3 +6,4 @@
 ### [树莓派4B](edgex/Raspberrypi.md)  
 ### [Intel NUC](edgex/intel_nuc.md)
 ### [Rockchip Rk3588s LP4X EVB ](edgex/rockchip.md)
+### [FT-2000](edgex/phytium.md)

@@ -1,15 +1,16 @@
 # Env
 ## Hardware
-* Rockchip Rk3588s LP4X EVB 
+* (飞腾 FT-D2000)[https://item.jd.com/100014588907.html]
 ## Software
-* 镜像需要自己移植
+* (openEuler-22.03-LTS)[https://repo.openeuler.org/openEuler-22.03-LTS/edge_img/aarch64/openEuler-22.03-LTS-edge-aarch64-dvd.iso]
 # Install
 
 
 ## install
-* 采用docker的方案去部署整个home assistant的服务
+* 采用docker的方案去部署整个edgex的服务
 
 ### Docker Install
+* 因为openEuler提供的repo源中，docker的版本过低，导致Edgex无法顺利运行，所以需要手动安装docker二进制包，并配置daemon 服务。
 ```
 # 通过二进制包的方式安装docker
 wget https://download.docker.com/linux/static/stable/aarch64/docker-20.10.17.tgz
@@ -65,39 +66,27 @@ docker run hello-world
 systemctl stop firewalld
 systemctl disable firewalld
 ```
-## Home Assistant Install
-* 通过docker 容器的方式去运行整个项目
+* 安装docker-compose
 ```
-docker run -d \
-  --name homeassistant \
-  --privileged \
-  --restart=unless-stopped \
-  -e TZ=China/Beijing \
-  -v /root:/config \
-  --network=host \
-  ghcr.io/home-assistant/home-assistant:stable
+wget https://github.com/docker/compose/releases/download/v2.7.0/docker-compose-linux-aarch64
+mv docker-compose-linux-aarch64 docker-compose
+chmod +x docker-compose
+sudo mv docker-compose /usr/local/bin
+
 ```
-* 配合演示，准备了一台装有vlc的ubuntu机器，以及Android机器。
-  ```
-  # 启动vlc
-  vlc -I telnet --telnet-password test -vvv /home/yons/data/test.mp4 /home/yons/data/test2.mp4 --ttl 12 --loop
-  ```
-* 访问该设备的`8123`端口，进入该项目
-  * 首先创建用户及密码
-    ![1](images/create_account.png)
-  * 配置位置及时区
-    ![2](images/set_info.png)
-    ![3](images/open_all_options.png)
-  * 扫描局域网中的设备
-    ![4](images/scanf_all_device.png)
-  * 进入概览
-    ![5](images/dashboard1.png)
-  * 添加设备和服务,添加vlc， android tv 及 GitHub 服务或设备
-    ![6](images/add_device%26service.png)
-    ![7](images/before_add.png)
-    ![8](images/add_after.png)
-  * 添加自动化，通过点击vlc播放，打开Android 设备
-    ![9](images/add_auto.png)
-    ![10](images/add_auto_content.png)
-  * 演示效果，点击播放vlc,回看到打开Android设备
-    ![11](images/auto_show.png)
+# Demo
+
+```
+# 拉取相关仓库
+dnf install git -y
+
+git clone https://github.com/edgexfoundry/edgex-compose.git
+# 切换到版本2.1.0
+git checkout v2.1.0
+# 启动demoe
+docker-compose -f docker-compose-no-secty-with-app-sample-arm64.yml up -d
+
+# 检查状态
+docker-compose ps
+```
+![state](image/state.png)
