@@ -10,11 +10,10 @@
 ![commandline](image/cline.png)
 
 ## install
-* 采用docker的方案去部署整个edgex的服务
+* 采用docker的方案去部署整个home assistant的服务
 
 ### Docker Install
-* 因为openEuler提供的repo源中，docker的版本过低，导致Edgex无法顺利运行，所以需要手动安装docker二进制包，并配置daemon 服务。
-```
+
 #改装docker 20.10.8
 wget https://download.docker.com/linux/static/stable/x86_64/docker-20.10.17.tgz
 

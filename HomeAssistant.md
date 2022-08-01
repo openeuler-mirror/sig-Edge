@@ -5,6 +5,7 @@ Open source home automation that puts local control and privacy first. Powered b
 
 
 ## 支持的设备平台
-### [树莓派4B](edgex/Raspberrypi.md)  
-### [Intel NUC](edgex/intel_nuc.md)
-### [Rockchip Rk3588s LP4X EVB ](edgex/rockchip.md)
+### [树莓派4B](homeAssistant/Raspberrypi.md)  
+### [Intel NUC](homeAssistant/intel_nuc.md)
+### [Rockchip Rk3588s LP4X EVB ](homeAssistant/rockchip.md)
+### [FT-2000](homeAssistant/phytium.md)
