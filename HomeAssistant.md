@@ -3,6 +3,7 @@ Awaken your home
 
 Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 
+**More details info, Please access [link](https://www.home-assistant.io/).**  
 
 ## 支持的设备平台
 ### [树莓派4B](homeAssistant/Raspberrypi.md)  
