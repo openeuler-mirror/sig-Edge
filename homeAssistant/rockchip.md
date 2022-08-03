@@ -82,22 +82,29 @@ docker run -d \
   # 启动vlc
   vlc -I telnet --telnet-password test -vvv /home/yons/data/test.mp4 /home/yons/data/test2.mp4 --ttl 12 --loop
   ```
-* 访问该设备的`8123`端口，进入该项目
+### 访问该设备的`8123`端口，进入该项目
   * 首先创建用户及密码
+   
     ![1](images/create_account.png)
   * 配置位置及时区
+  
     ![2](images/set_info.png)
     ![3](images/open_all_options.png)
   * 扫描局域网中的设备
+  
     ![4](images/scanf_all_device.png)
   * 进入概览
+  
     ![5](images/dashboard1.png)
   * 添加设备和服务,添加vlc， android tv 及 GitHub 服务或设备
+  
     ![6](images/add_device%26service.png)
     ![7](images/before_add.png)
     ![8](images/add_after.png)
   * 添加自动化，通过点击vlc播放，打开Android 设备
+  
     ![9](images/add_auto.png)
     ![10](images/add_auto_content.png)
   * 演示效果，点击播放vlc,回看到打开Android设备
+  
     ![11](images/auto_show.png)
