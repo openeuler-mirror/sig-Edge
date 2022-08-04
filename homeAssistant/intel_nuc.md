@@ -7,7 +7,7 @@
  ## **Operation system install**
 * 通过UltraISO 制作启动U盘，该部分请自行百度
 * - 由于U盘名长度的限制，会导致`dracut-initqueue: Warning: dracut-initqueue timeout - starting timeout scripts` 的问题，需要在启动时修改`command line` 中的`hd:LABEL=` 为`openEuler-2` 与U盘名对应，按`F10` 启动正常安装.
-![commandline](image/cline.png)
+![commandline](images/cline.png)
 
 ## install
 * 采用docker的方案去部署整个home assistant的服务
