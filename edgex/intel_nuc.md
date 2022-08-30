@@ -58,15 +58,36 @@ docker run hello-world
 
 
 ```
-* 安装docker-compose
+# 通过docker-compose直接拉取官方编译好的镜像
 ```
 wget https://github.com/docker/compose/releases/download/v2.7.0/docker-compose-linux-x86_64
 mv docker-compose-linux-x86_64 docker-compose
 
 chmod +x docker-compose
 mv docker-compose /usr/local/bin
+```
+# 或者通过拉取代码，在本地修改，编译成docker镜像
 
 ```
+git clone https://github.com/edgexfoundry/edgex-go.git
+#切换到目的分支
+git chekcout 2.1.0
+# 由于拉取docker apk的一些包会超时，修改Dockerfile中的docker源
+# 依次修改cmd/各个子目录下面的Dockerfile
+#RUN sed -e 's/dl-cdn[.]alpinelinux.org/nl.alpinelinux.org/g' -i~ /etc/apk/repositories
+RUN sed -e 's/dl-cdn[.]alpinelinux.org/mirror.tuna.tsinghua.edu.cn/g' -i~ /etc/apk/repositories
+# 若在docker build 过程中拉取go 包出现超时，可以在Dockerfile中添加go代理
+ENV GOPROXY=https://goproxy.cn
+
+# 默认编译出来的docker TAG 为 0.0.0-dev, 需要修改Makefile中docker TAG，与docker-compose文件中配置一致即可
+DOCKER_TAG=2.1.0
+
+# 生成镜像 docker 
+make docker
+```
+![build_image](image/build_docker.png)
+* 其他的软件包，都可以通过同样的方式编译生成docker镜像
+* 接下来，通过`docker-compose`去将`edgex-compose`中yaml文件，容器创建及开始运行。
 # Demo
 
 ```
