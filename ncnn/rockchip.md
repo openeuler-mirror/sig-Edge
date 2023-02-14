@@ -3,6 +3,8 @@
 git clone https://github.com/Tencent/ncnn.git
 cd ncnn
 git submodule update --init
+
+dnf install protobuf-devel
 ```
 
 # Build
