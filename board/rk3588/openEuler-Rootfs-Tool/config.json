@@ -1,0 +1,24 @@
+{
+    "TargetVersion" : "22.03-LTS",
+    "SourceFile": "openEuler-22.03-LTS-edge-aarch64.rpmlist",
+    "ImageName": "rootfs-edge.img",
+    "RootPassword" : "123",
+    "CustomRepoEnable" : false,
+    "CustomRepoFile" : "",
+    "MirrorRepoEnable" : true,
+    "MirrorRepoSource" : "repo.openeuler.openatom.cn",
+    "RemovePackage": [
+        "kernel",
+        "grub2"
+    ],
+    "ExtraPackage": [
+        "gdisk",
+        "dpkg",
+        "gstreamer1",
+        "gstreamer1-devel",
+        "gstreamer1-plugins-base",
+        "gstreamer1-plugins-good",
+        "gstreamer1-plugins-bad-free",
+        "v4l-utils"
+    ]
+}
