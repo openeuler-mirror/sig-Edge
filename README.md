@@ -40,8 +40,8 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 邓凡平[@innost](https://gitee.com/innost), *[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
 - 徐晓晶[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
 - 王海瑞[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
-- 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
-- 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[pangbanme@163.com](mailto:pangbanme@163.com)*
+- 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [363884998@qq.com](mailto:363884998@qq.com)
 - 王杰章[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 - 王峰图[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
@@ -50,8 +50,8 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 邓凡平[@innost](https://gitee.com/innost)，*[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
 - 徐晓晶[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
 - 王海瑞[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
-- 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
-- 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- 刘寿永[@pangbanme](https://gitee.com/pangbanme)，*[pangbanme@163.com](mailto:pangbanme@163.com)*
+- 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [363884998@qq.com](mailto:363884998@qq.com)
 - 王杰章[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 - 王峰图[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
@@ -60,8 +60,8 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - fanping.deng@gmail.com
 - 2285728351@qq.com
 - wanghr0630@thundersoft.com
-- [liusy@thundersoft.com](mailto:liusy@thundersoft.com)
-- [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- [pangbanme@163.com](mailto:pangbanme@163.com)
+- [363884998@qq.com](mailto:363884998@qq.com)
 - 2744323@qq.com
 
 # 项目地址

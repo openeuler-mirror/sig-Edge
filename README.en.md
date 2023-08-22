@@ -40,8 +40,8 @@ Dial based on your location
 - Fanping Deng[@innost](https://gitee.com/innost), *[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
 - Xiaojing Xu[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
 - Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
-- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
-- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[pangbanme@163.com](mailto:pangbanme@163.com)*
+- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [363884998@qq.com](mailto:363884998@qq.com)
 - Jiezhang Wang[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 - Fengtu Wang[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
@@ -50,8 +50,8 @@ Dial based on your location
 - Fanping Deng[@innost](https://gitee.com/innost)，*[fanping.deng@gmail.com](mailto:fanping.deng@gmail.com)*
 - Xiaojing Xu[@xuxj1973](2285728351@qq.com), [2285728351@qq.com](mailto:2285728351@qq.com)
 - Hairui Wang[@harry-mrwang](wanghr0630@thundersoft.com), [wanghr0630@thundersoft.com](mailto:wanghr0630@thundersoft.com)
-- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[liusy@thundersoft.com](mailto:liusy@thundersoft.com)*
-- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- Shouyong Liu[@pangbanme](https://gitee.com/pangbanme)，*[pangbanme@163.com](mailto:pangbanme@163.com)*
+- Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [363884998@qq.com](mailto:363884998@qq.com)
 - Jiezhang Wang[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 - Fengtu Wang[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
 
@@ -60,8 +60,8 @@ Dial based on your location
 - fanping.deng@gmail.com
 - 2285728351@qq.com
 - wanghr0630@thundersoft.com
-- [liusy@thundersoft.com](mailto:liusy@thundersoft.com)
-- [wangyx0704@thundersoft.com](mailto:wangyx0704@thundersoft.com)
+- [pangbanme@163.com](mailto:pangbanme@163.com)
+- [363884998@qq.com](mailto:363884998@qq.com)
 - 2744323@qq.com
 
 # Repository address
