@@ -44,6 +44,9 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 王玉熙[@wangyx0704](https://gitee.com/wangyx0704), [363884998@qq.com](mailto:363884998@qq.com)
 - 王杰章[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 - 王峰图[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
+- 王科研[@wang-ke-yan](https://gitee.com/wang-ke-yan), [wangky1124@thundersoft.com](mailto:wangky1124@thundersoft.com)
+- 杨光[@pipifather](https://gitee.com/pipifather), [yangguang@thundersoft.com](mailto:yangguang@thundersoft.com)
+- 白晋涛[@bjtgitee](https://gitee.com/bjtgitee), [3196331600@qq.com](mailto:3196331600@qq.com)
 
 ### **Committer列表**
 
