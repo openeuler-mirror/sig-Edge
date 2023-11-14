@@ -44,6 +44,9 @@ Dial based on your location
 - Yuxi Wang[@wangyx0704](https://gitee.com/wangyx0704), [363884998@qq.com](mailto:363884998@qq.com)
 - Jiezhang Wang[@Poorunga](https://gitee.com/Poorunga), [2744323@qq.com](mailto:2744323@qq.com)
 - Fengtu Wang[@FengtuWang](https://gitee.com/FengtuWang), [1148791151@qq.com](mailto:1148791151@qq.com)
+- Keyan Wang[@wang-ke-yan](https://gitee.com/wang-ke-yan), [wangky1124@thundersoft.com](mailto:wangky1124@thundersoft.com)
+- Guang yang[@pipifather](https://gitee.com/pipifather), [yangguang@thundersoft.com](mailto:yangguang@thundersoft.com)
+- Jintao Bai[@bjtgitee](https://gitee.com/bjtgitee), [3196331600@qq.com](mailto:3196331600@qq.com)
 
 ### **Committer**
 
