@@ -47,6 +47,8 @@ Dial based on your location
 - Keyan Wang[@wang-ke-yan](https://gitee.com/wang-ke-yan), [wangky1124@thundersoft.com](mailto:wangky1124@thundersoft.com)
 - Guang yang[@pipifather](https://gitee.com/pipifather), [yangguang@thundersoft.com](mailto:yangguang@thundersoft.com)
 - Jintao Bai[@bjtgitee](https://gitee.com/bjtgitee), [3196331600@qq.com](mailto:3196331600@qq.com)
+- Lei Hu[@ts_hulei](https://gitee.com/ts_hulei), [hulei0901@thundersoft.com](hulei0901@thundersoft.com)
+- Xiucheng Zhao[@Elvis](https://gitee.com/zhao-xiucheng), [zhaoxc0502@thundersoft.com](zhaoxc0502@thundersoft.com)
 
 ### **Committer**
 
