@@ -49,6 +49,7 @@ https://meeting.tencent.com/s/iwZmnhcOSs3x
 - 白晋涛[@bjtgitee](https://gitee.com/bjtgitee), [3196331600@qq.com](mailto:3196331600@qq.com)
 - 胡磊[@ts_hulei](https://gitee.com/ts_hulei), [hulei0901@thundersoft.com](hulei0901@thundersoft.com)
 - 赵秀成[@Elvis](https://gitee.com/zhao-xiucheng), [zhaoxc0502@thundersoft.com](zhaoxc0502@thundersoft.com)
+- 王东兴[@desert-sailor](https://gitee.com/desert-sailor), [dongxing.wang_a@thundersoft.com](dongxing.wang_a@thundersoft.com)
 
 ### **Committer列表**
 
